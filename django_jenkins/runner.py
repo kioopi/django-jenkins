@@ -1,4 +1,5 @@
 # -*- coding: utf-8; mode: django -*-
+from __future__ import with_statement
 import os
 import traceback
 from datetime import datetime
