@@ -264,7 +264,7 @@ Contributors:
 * Jonas Obrist (https://github.com/ojii)
 * John Paulett (https://github.com/johnpaulett)
 * Michael Ellingen (https://github.com/mvantellingen)
-* Domen Kožar (https://github.com/iElectric)
+* Domen Kozar (https://github.com/iElectric)
 * Simon Panay (https://github.com/simonpanay)
 * Tom Mortimer-Jones (https://github.com/morty)
 * Philip Kimmey (https://github.com/philipkimmey)
